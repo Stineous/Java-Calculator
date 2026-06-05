@@ -1,5 +1,3 @@
-Here is a professional, production-ready README.md for your Java Swing Calculator. It includes clear installation instructions, features, and setup steps, tailored perfectly for showcasing on your GitHub profile or portfolio.
-
 Desktop Calculator App
 A clean, responsive, and lightweight desktop calculator application built using Java and Java Swing. This application features an intuitive graphical user interface (GUI) with robust input validation and error-handling logic for everyday arithmetic operations.
 
